@@ -3,9 +3,5 @@
   "releaseDate": "28-07-2026",
   "downloadUrl": "https://github.com/mathieudylanpro/Menu/releases/download/v1.0.10/ITAdminTool.zip",
   "fileName": "ITAdminTool.exe",
-  "releaseNotes": "
-• Sessions RDP : listing, Shadow, Déconnecter et Logoff dans Maintenance.
-• Sessions RDP : interface simplifiée (boutons unifiés, confirmation courte)
-• Touche Entrée : validation des champs principaux (auth, recherche, paramètres…)
-• Affichage des notes de version à la mise à jour"
+  "releaseNotes": "• Sessions RDP : listing, Shadow, Déconnecter et Logoff dans Maintenance.\n• Sessions RDP : interface simplifiée (boutons unifiés, confirmation courte)\n• Touche Entrée : validation des champs principaux (auth, recherche, paramètres…)\n• Affichage des notes de version à la mise à jour"
 }
