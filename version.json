@@ -1,7 +1,8 @@
 {
-  "version": "1.0.10",
-  "releaseDate": "28-07-2026",
-  "downloadUrl": "https://github.com/mathieudylanpro/Menu/releases/download/v1.0.10/ITAdminTool.zip",
+  "version": "1.0.11",
+  "releaseDate": "31-07-2026",
+  "downloadUrl": "https://github.com/mathieudylanpro/Menu/releases/download/v1.0.11/ITAdminTool.zip",
   "fileName": "ITAdminTool.exe",
-  "releaseNotes": "• Sessions RDP : listing, Shadow, Déconnecter et Logoff dans Maintenance.\n• Sessions RDP : interface simplifiée (boutons unifiés, confirmation courte)\n• Touche Entrée : validation des champs principaux (auth, recherche, paramètres…)\n• Affichage des notes de version à la mise à jour"
+  "sha256": "REMPLACER_APRES_PACKAGING",
+  "releaseNotes": "• RemoteOps : backend MariaDB uniquement (plus de Firebase / itadmintool.web.app dans l’Exe)\n• iPerf3 : mesure bidirectionnelle (envoi + réception -R) et débits en Mbit/s\n• Prêt matériel : barre d’état allégée (plus de chemin UNC qui masquait les boutons)\n• Correctifs WPF single-file : sidecars Accessibility.dll + System.Windows.Presentation.dll\n• Messages d’erreur plus clairs (assemblies manquants)"
 }
