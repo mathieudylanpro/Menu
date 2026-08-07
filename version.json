@@ -1,7 +1,7 @@
 {
-  "version": "1.0.71",
+  "version": "1.0.72",
   "releaseDate": "07-08-2026",
-  "downloadUrl": "https://github.com/mathieudylanpro/Menu/releases/download/v1.0.71/ITAdminTool.zip",
+  "downloadUrl": "https://github.com/mathieudylanpro/Menu/releases/download/v1.0.72/ITAdminTool.zip",
   "fileName": "ITAdminTool.exe",
   "sha256": "7C793A4B7CCDF4D6EDA1BC8DE67593316FAD189D485F508A6E2BADD711E237B3",
   "releaseNotes": "• RemoteOps : backend MariaDB uniquement (plus de Firebase / itadmintool.web.app dans l’Exe)\n• iPerf3 : mesure bidirectionnelle (envoi + réception -R) et débits en Mbit/s\n• Prêt matériel : barre d’état allégée (plus de chemin UNC qui masquait les boutons)\n• Correctifs WPF single-file : sidecars Accessibility.dll + System.Windows.Presentation.dll\n• Messages d’erreur plus clairs (assemblies manquants)"
